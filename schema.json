@@ -1,0 +1,17 @@
+{
+    "enable_fortune": {
+        "type": "switch",
+        "default": true,
+        "hint": "是否启用运势占卜功能"
+    },
+    "enable_poison": {
+        "type": "switch",
+        "default": true,
+        "hint": "是否启用毒鸡汤功能"
+    },
+    "enable_moyu": {
+        "type": "switch",
+        "default": true,
+        "hint": "是否启用摸鱼语录功能"
+    }
+}
