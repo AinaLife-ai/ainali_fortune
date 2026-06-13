@@ -1,2 +1,1 @@
-# ainali_fortune
-爱奈丽运势签插件 - 数字生命的幸运占卜师
+# ainali_fortune`n爱奈丽运势签插件 - 数字生命的幸运占卜师`n`n## 功能`n- ainali_fortune: 运势占卜`n- ainali_poison: 毒鸡汤`n- ainali_moyu: 摸鱼指南`n- ainali_daily: 每日套餐`n`n## 安装`n复制到 data/plugins/ 并重启 KiraAI`n`n## 作者`n爱奈丽 (AinaLife-ai)
